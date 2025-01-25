@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "tensor-network-for-quantum-computing"
+version = "0.1.0"
+description = ""
+authors = ["torataro-tiger <121601488+torataro-tiger@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+tensornetwork = "^0.4.6"
+numpy = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
