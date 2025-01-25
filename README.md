@@ -1,0 +1,2 @@
+# tensor_network_for_quantum_computing
+テンソルネットワークによる量子もつれ状態の生成と観測計算
